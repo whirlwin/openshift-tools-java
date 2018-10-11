@@ -4,7 +4,7 @@
 
     <groupId>no.telenor</groupId>
     <artifactId>openshift-tools-java</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <build>
         <plugins>
@@ -22,7 +22,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/whirlwin/openshift-tools-java.git
         </developerConnection>
-        <tag>openshift-tools-java-1.0</tag>
+        <tag>openshift-tools-java-1.1</tag>
     </scm>
 
     <distributionManagement>

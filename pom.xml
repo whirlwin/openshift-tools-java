@@ -26,6 +26,11 @@
     </scm>
 
     <distributionManagement>
+        <repository>
+            <id>nexus-openshift-tools-java-releases</id>
+            <name>OpenShift Tools Java release repository</name>
+            <url>https://source.telenor.no/nexus/content/repositories/openshift-tools-java</url>
+        </repository>
         <snapshotRepository>
             <uniqueVersion>true</uniqueVersion>
             <id>nexus-openshift-tools-java-snapshots</id>
